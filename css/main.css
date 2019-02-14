@@ -24,21 +24,15 @@ body {
 header {
   background-color: #e2e2e2;
   text-align: center;
-  padding-top: .5em;
 }
 
 h1 {
   margin-bottom: 0;
 }
 
-nav {
-  padding: 1em;
-}
-
 a {
   color: #0074d9;
   text-decoration: none;
-  padding: 1em;
 }
 
 a:hover {
@@ -65,4 +59,5 @@ a:hover {
     display: inline-block;
     text-align: left;
   }
+
 }
